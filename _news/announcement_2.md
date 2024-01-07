@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy to be part of the EMNLP 2023 best paper committee! Such a [great list] (https://2023.emnlp.org/program/best_papers/) of nominations!
+Happy to be part of the EMNLP 2023 best paper committee! Such a [great list](https://2023.emnlp.org/program/best_papers/) of nominations!

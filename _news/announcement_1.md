@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting our EMNLP full paper on [fine-tuning label description for zero-shot text classification] (https://aclanthology.org/2023.emnlp-main.853/)
+Presenting our EMNLP full paper on [fine-tuning label description for zero-shot text classification](https://aclanthology.org/2023.emnlp-main.853/)
