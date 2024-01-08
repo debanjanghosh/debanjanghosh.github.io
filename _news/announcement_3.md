@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy New Year. FigLang 2024 workshop cite is up. Please submit.
+Happy New Year. FigLang 2024 workshop site is up. Please submit.
