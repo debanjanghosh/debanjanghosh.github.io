@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Research Scientist, ETS</a> 
+subtitle: <a href='#'>Principal Research Scientist, ADI</a> 
 
 profile:
   align: right
@@ -24,4 +24,4 @@ Previously, I worked as a Senior Software Engineer at Thomson Reuters Research i
 
 Prior to returning to industry, I did a Ph.D. investigating contextual knowledge—particularly figurative language like sarcasm and irony—on social media platforms. I also completed a postdoctoral fellowship at MIT’s Brain and Cognitive Sciences Department, studying how semantic knowledge is represented in the brain.
 
-I am a co-organizer of the [SemEval Workshop] (https://semeval.github.io/SemEval2026/) for 2025-2026, which is among the largest workshops in NLP in terms of tasks and number of participants. Be sure to explore the tasks and proposals for the new challenges that focus on evaluating systems for computational semantic analysis.
+I am a co-organizer of the [SemEval Workshop](https://semeval.github.io/SemEval2026/) for 2025-2026, which is among the largest workshops in NLP in terms of tasks and number of participants. Be sure to explore the tasks and proposals for the new challenges that focus on evaluating systems for computational semantic analysis.
